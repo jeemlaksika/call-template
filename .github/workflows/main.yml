@@ -13,7 +13,7 @@ jobs:
         name: Call Reusable Workflow
         uses: jeemlaksika/node-template/.github/workflows/node-build-template.yml@main
         with:
-            node-version: '2'
+            node-version: '20'
 
 
         
